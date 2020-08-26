@@ -1,0 +1,185 @@
+content:
+- Hello!
+- Cats are robots
+- Hello, Java
+- The Hello World program
+- From 0 to 4
+- We need to learn Java
+- The result of a Tic-Tac-Toe game
+- First, second, third
+- Printing a magic letter
+- Digits from 0 to 9 in a single line
+- Invalid declaration of variables
+- Assignments
+- Fill the declaration
+- Assignments
+- Print strings in the reverse order
+- Hiring a chef
+- Guest list of a hotel
+- How many nuts each squirrel will get
+- Reversing input numbers
+- Snail
+- Groundhogs at a party
+- Decrement all
+- Replacing 'a' with 'b'
+- Extracting a substring
+- Check prefix ignoring the case
+- Healthy sleep
+- Interval
+- Chocolate
+- Triangle
+- The sum of integers from a to b
+- Size of parts
+- The product of numbers from a to b
+- The sum of elements
+- Collatz conjecture
+- Squares of natural numbers
+- Even or odd
+- The integer barrier
+- The (un)-ordered sequence
+- Count how many times a number occurs
+- Check if an array is sorted ascending
+- Boxes
+- Binary search
+- Complex
+- Account
+- Getting the fullname
+- 2 weeks after
+- The first and the last day of a month
+- The n-th day from the end of a month
+- Some hours and minutes ago
+- Return time without seconds
+- Seconds between two time points
+- Subtracting hours and adding minutes
+- Add 11 hours and print the date
+- Adding N minutes
+- Implementing the EntrySet method
+- Phone Book
+- Removing
+- Symmetrical number
+- Concat positive numbers
+- Find the nearest number
+- Check a number is positive
+- Double characters
+- Move the first N characters
+- Create a euphonious word
+- Overloading methods
+- Project constants and methods
+- Too many cats
+- Find all mondays
+- Time
+- Movie
+- Employee
+- Bank account
+- Employees
+- Saying animals
+- Shapes area
+- Publications
+- Publication and its subclasses
+- Users and WebSites
+- Shape hierarchy
+- Mutable geometric shapes
+- Account Service
+- Compact strings with AsciiCharSequence
+- Motor static factory
+- Clock factory
+- Static factory methods for Time
+- Clocks
+- Robot
+- Motors
+- Template Method
+- Template Method
+- Check if an array contains two numbers
+- Laptop factory
+- Phone factory
+- Burgers
+- Piece of alphabet
+- Convert to byte array
+- Convert to bytes
+- Reverse input text
+- Count words
+- Print dates of a year with an offset
+- String to double conversion
+- Catching some exceptions
+- Converting and multiplying
+- Bus tour
+- Getting information on a day
+- Are siblings?
+- The maximum pairwise product
+- Triples
+- Comparing strings ignoring whitespaces
+- The sequence
+- Right Rotation
+- Individual taxes
+- The largest element of a sequence
+- Whole hours between two date-time pairs
+- Writing a thread for printing numbers
+- Numbers filter
+- Multiple threads
+- VeganPizza
+- Ordering the execution of threads
+- Calculate the number of distinct characters
+- Check burgs
+- Messaging
+- Check whether a number is prime
+- Complete a class
+- Complete the eager singleton
+- Number of occurrences
+- Forex Broker
+- Remote Controller
+- Undo command
+- 30 years before and after
+- Returning values from an anonymous class
+- String reverser
+- Output names of the methods
+- Max of two integers
+- Expression closure
+- Production of all numbers in the range
+- Starting threads
+- Pizza Decorator
+- Breakfast Decorator
+- Coffee Decorator
+- Circle
+- Cinema Facade
+- Computer Facade
+- Smart house
+- Ascending and descending sorting
+- Apply function to all elements
+- Blacklist
+- Squares list
+- Greek letters
+- The longest string in the list
+- Filtering the list
+- Creating a set
+- Output elements
+- Removing elements
+- Creating a map
+- Getting submaps
+- Kidnapper of Ice cream
+- Phone
+- Accounts
+- An infinite numbers supplier
+- Ternary operator
+- Finding max and min elements
+- Composing predicates
+- The chain of responsibility
+- Check if a number is prime
+- Bad words detecting
+- Maximum of the absolute values
+- Sorting the absolute values
+- Count words without repetitions
+- Reducer operator
+- Sum of divisors
+- Range quadratic sum
+- Calculating factorials
+- Palindrome or not
+- The product of squares
+- The total sum of transaction by each account
+- The average salary
+- The sum of odd numbers
+- The general number of employees
+- The ten most frequent words
+- Secret codes
+- Prime numbers
+- Inverting streams
+- The address book

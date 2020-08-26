@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BlockchainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-26T17:50:14" hostname="sevenzero" time="16.066">
+  <properties/>
+  <testcase name="start" classname="BlockchainTest" time="16.066"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Block:
+Created by: miner2
+miner2 gets 100 VC
+Id: 1
+Timestamp: 1598464214587
+Magic number: 1
+Hash of the previous block: 
+0
+Hash of the block: 
+ebaa43b227cbd9fa01e4ae1f7872d7bc0dab52aae17797a5ce944355f664ac91
+Block data: 
+Nick sent 36 VC to System
+Alice sent 2 VC to Nick
+Bob sent 62 VC to System
+Block was generating for 0 seconds
+N stay the same
+
+Block:
+Created by: miner4
+miner4 gets 100 VC
+Id: 2
+Timestamp: 1598464214706
+Magic number: 1
+Hash of the previous block: 
+ebaa43b227cbd9fa01e4ae1f7872d7bc0dab52aae17797a5ce944355f664ac91
+Hash of the block: 
+c63f2b525500c857b8bb61e72d5eee8843aa6570ead8d4f04be363143b31cb28
+Block data: 
+System sent 100 VC to miner2
+Block was generating for 0 seconds
+N was increased to 1
+
+Block:
+Created by: miner4
+miner4 gets 100 VC
+Id: 3
+Timestamp: 1598464214718
+Magic number: 21
+Hash of the previous block: 
+c63f2b525500c857b8bb61e72d5eee8843aa6570ead8d4f04be363143b31cb28
+Hash of the block: 
+0c9554b63ecfcfc943602fc8e328bac767946d2fb7023f3e622063b8c7657fcd
+Block data: 
+System sent 100 VC to miner4
+Block was generating for 0 seconds
+N was increased to 2
+
+Block:
+Created by: miner6
+miner6 gets 100 VC
+Id: 4
+Timestamp: 1598464214737
+Magic number: 49
+Hash of the previous block: 
+0c9554b63ecfcfc943602fc8e328bac767946d2fb7023f3e622063b8c7657fcd
+Hash of the block: 
+008c58d8c1de8088880a87546c0799fc7688baa9d8ed09cd3d0c49b9c755ef2b
+Block data: 
+System sent 100 VC to miner4
+Block was generating for 0 seconds
+N was increased to 3
+
+Block:
+Created by: miner2
+miner2 gets 100 VC
+Id: 5
+Timestamp: 1598464214759
+Magic number: 1009
+Hash of the previous block: 
+008c58d8c1de8088880a87546c0799fc7688baa9d8ed09cd3d0c49b9c755ef2b
+Hash of the block: 
+000d3a51db7dafbaaba5ab71a4db7256179c417413496f94c1c41e144ca81108
+Block data: 
+System sent 100 VC to miner6
+Block was generating for 0 seconds
+N was increased to 4
+
+Block:
+Created by: miner4
+miner4 gets 100 VC
+Id: 6
+Timestamp: 1598464214902
+Magic number: 45
+Hash of the previous block: 
+000d3a51db7dafbaaba5ab71a4db7256179c417413496f94c1c41e144ca81108
+Hash of the block: 
+0000fe0562805f01948fa8596c6dcf83647ad4b1d88377910f0880532a5aec8b
+Block data: 
+System sent 100 VC to miner2
+Block was generating for 0 seconds
+N was increased to 5
+
+Block:
+Created by: miner9
+miner9 gets 100 VC
+Id: 7
+Timestamp: 1598464214921
+Magic number: 100189
+Hash of the previous block: 
+0000fe0562805f01948fa8596c6dcf83647ad4b1d88377910f0880532a5aec8b
+Hash of the block: 
+00000b90647eebc095e93e6cc5c3358b0b3bb5783d97941c2e11506dc266f722
+Block data: 
+System sent 100 VC to miner4
+Block was generating for 2 seconds
+N was decreased to 4
+
+Block:
+Created by: miner2
+miner2 gets 100 VC
+Id: 8
+Timestamp: 1598464216978
+Magic number: 3116
+Hash of the previous block: 
+00000b90647eebc095e93e6cc5c3358b0b3bb5783d97941c2e11506dc266f722
+Hash of the block: 
+000023aab323905f64a6936ab8657755d2d8beee550b0e8e39ba0f8e83c5b626
+Block data: 
+Nick sent 100 VC to miner2
+Bob sent 53 VC to Nick
+Alice sent 6 VC to Nick
+Nick sent 64 VC to miner1
+Bob sent 98 VC to miner9
+Alice sent 59 VC to Nick
+System sent 100 VC to miner9
+Block was generating for 0 seconds
+N was increased to 5
+
+Block:
+Created by: miner8
+miner8 gets 100 VC
+Id: 9
+Timestamp: 1598464217080
+Magic number: 286437
+Hash of the previous block: 
+000023aab323905f64a6936ab8657755d2d8beee550b0e8e39ba0f8e83c5b626
+Hash of the block: 
+00000f3474d9b721b0a6540ece5fe949617c3108ada6bf7fa391e4dbfe67f340
+Block data: 
+System sent 100 VC to miner2
+Bob sent 54 VC to miner3
+Nick sent 56 VC to miner7
+Block was generating for 3 seconds
+N was decreased to 4
+
+Block:
+Created by: miner8
+miner8 gets 100 VC
+Id: 10
+Timestamp: 1598464220204
+Magic number: 11225
+Hash of the previous block: 
+00000f3474d9b721b0a6540ece5fe949617c3108ada6bf7fa391e4dbfe67f340
+Hash of the block: 
+0000dbbd13031866202e8897f714091be498890f3496cf56143c42d687b39c66
+Block data: 
+Alice sent 78 VC to miner9
+Nick sent 33 VC to Bob
+Alice sent 10 VC to miner7
+Bob sent 83 VC to Alice
+Bob sent 53 VC to miner5
+Alice sent 12 VC to miner1
+Nick sent 80 VC to Alice
+System sent 100 VC to miner8
+Nick sent 89 VC to miner5
+Block was generating for 0 seconds
+N was increased to 5
+
+Block:
+Created by: miner2
+miner2 gets 100 VC
+Id: 11
+Timestamp: 1598464220418
+Magic number: 24833
+Hash of the previous block: 
+0000dbbd13031866202e8897f714091be498890f3496cf56143c42d687b39c66
+Hash of the block: 
+000003341ac3f68788669d96d678ff0cfa529e2f3b46cac7df8452892a3f7de7
+Block data: 
+System sent 100 VC to miner8
+Bob sent 95 VC to miner5
+Alice sent 54 VC to miner1
+Block was generating for 0 seconds
+N stay the same
+
+Block:
+Created by: miner7
+miner7 gets 100 VC
+Id: 12
+Timestamp: 1598464220731
+Magic number: 38144
+Hash of the previous block: 
+000003341ac3f68788669d96d678ff0cfa529e2f3b46cac7df8452892a3f7de7
+Hash of the block: 
+00000cdfe0099c58aed98323e26b37445f86606aeae2ee28abbd3a8ccaf8fe4f
+Block data: 
+System sent 100 VC to miner2
+Bob sent 25 VC to miner3
+Block was generating for 0 seconds
+N stay the same
+
+Block:
+Created by: miner9
+miner9 gets 100 VC
+Id: 13
+Timestamp: 1598464221177
+Magic number: 132088
+Hash of the previous block: 
+00000cdfe0099c58aed98323e26b37445f86606aeae2ee28abbd3a8ccaf8fe4f
+Hash of the block: 
+00000c2eada07483855f642fa0ea7192e45698baed7f5ae183f4a5b979fe2d9f
+Block data: 
+System sent 100 VC to miner7
+Alice sent 13 VC to Nick
+Nick sent 33 VC to miner8
+Block was generating for 1 seconds
+N was decreased to 4
+
+Block:
+Created by: miner1
+miner1 gets 100 VC
+Id: 14
+Timestamp: 1598464222769
+Magic number: 19286
+Hash of the previous block: 
+00000c2eada07483855f642fa0ea7192e45698baed7f5ae183f4a5b979fe2d9f
+Hash of the block: 
+00004424b46e8f10504b8730f906632b7af6186ddb4af92f8ee27cd64188bece
+Block data: 
+Bob sent 9 VC to miner3
+Nick sent 19 VC to miner9
+Alice sent 3 VC to miner5
+System sent 100 VC to miner9
+Alice sent 57 VC to Nick
+Bob sent 43 VC to Nick
+Nick sent 56 VC to miner5
+Block was generating for 0 seconds
+N stay the same
+
+Block:
+Created by: miner1
+miner1 gets 100 VC
+Id: 15
+Timestamp: 1598464223074
+Magic number: 17511
+Hash of the previous block: 
+00004424b46e8f10504b8730f906632b7af6186ddb4af92f8ee27cd64188bece
+Hash of the block: 
+00006581548aefbb077e23b4df70ccd64fca587df55cb5a56eb4c4521b607d01
+Block data: 
+System sent 100 VC to miner1
+Block was generating for 0 seconds
+N was increased to 5
+
+?[1;31m
+Start test 2?[0m
+Block:
+Created by: miner1
+miner1 gets 100 VC
+Id: 1
+Timestamp: 1598464224606
+Magic number: 1
+Hash of the previous block: 
+0
+Hash of the block: 
+6ff47f7031aaa6bfb987dad0592bd967b349e99173a89bd1dd644d4f5d13225e
+Block data: 
+Nick sent 3 VC to Bob
+Bob sent 84 VC to Alice
+Alice sent 39 VC to System
+Block was generating for 0 seconds
+N was increased to 1
+
+Block:
+Created by: miner2
+miner2 gets 100 VC
+Id: 2
+Timestamp: 1598464224645
+Magic number: 12
+Hash of the previous block: 
+6ff47f7031aaa6bfb987dad0592bd967b349e99173a89bd1dd644d4f5d13225e
+Hash of the block: 
+01f56f6a6560b8add61be51cf532d2acd53c10a47312c1b1fc22a419727b8cc0
+Block data: 
+System sent 100 VC to miner1
+Block was generating for 0 seconds
+N was increased to 2
+
+Block:
+Created by: miner2
+miner2 gets 100 VC
+Id: 3
+Timestamp: 1598464224651
+Magic number: 54
+Hash of the previous block: 
+01f56f6a6560b8add61be51cf532d2acd53c10a47312c1b1fc22a419727b8cc0
+Hash of the block: 
+0075b190005774015b588f86a1986dd49aed736f39e3a03facc37e747a1d1d3b
+Block data: 
+System sent 100 VC to miner2
+Block was generating for 0 seconds
+N was increased to 3
+
+Block:
+Created by: miner3
+miner3 gets 100 VC
+Id: 4
+Timestamp: 1598464224715
+Magic number: 480
+Hash of the previous block: 
+0075b190005774015b588f86a1986dd49aed736f39e3a03facc37e747a1d1d3b
+Hash of the block: 
+000f458e612fbe3e369272d23ae6ff3e3ea3ff2c804952c5ac785b92136000f4
+Block data: 
+System sent 100 VC to miner2
+Block was generating for 0 seconds
+N was increased to 4
+
+Block:
+Created by: miner5
+miner5 gets 100 VC
+Id: 5
+Timestamp: 1598464224801
+Magic number: 2279
+Hash of the previous block: 
+000f458e612fbe3e369272d23ae6ff3e3ea3ff2c804952c5ac785b92136000f4
+Hash of the block: 
+00006f8e64b3ce335828d3ef60e1109614e5256a86dadf228f8f6f2e280b20c8
+Block data: 
+System sent 100 VC to miner3
+Block was generating for 0 seconds
+N was increased to 5
+
+Block:
+Created by: miner6
+miner6 gets 100 VC
+Id: 6
+Timestamp: 1598464224867
+Magic number: 25035
+Hash of the previous block: 
+00006f8e64b3ce335828d3ef60e1109614e5256a86dadf228f8f6f2e280b20c8
+Hash of the block: 
+0000092027a97edf38c5bb00317391f38868c6516cf7df71111b400d484c50df
+Block data: 
+System sent 100 VC to miner5
+Bob sent 96 VC to miner1
+Block was generating for 0 seconds
+N stay the same
+
+Block:
+Created by: miner1
+miner1 gets 100 VC
+Id: 7
+Timestamp: 1598464225201
+Magic number: 50678
+Hash of the previous block: 
+0000092027a97edf38c5bb00317391f38868c6516cf7df71111b400d484c50df
+Hash of the block: 
+000001b02378cc49121b20bcced645a5d2df22eb290408e38a45f6273d564fe3
+Block data: 
+System sent 100 VC to miner6
+Nick sent 29 VC to miner6
+Block was generating for 0 seconds
+N was decreased to 4
+
+Block:
+Created by: miner7
+miner7 gets 100 VC
+Id: 8
+Timestamp: 1598464225812
+Magic number: 1302
+Hash of the previous block: 
+000001b02378cc49121b20bcced645a5d2df22eb290408e38a45f6273d564fe3
+Hash of the block: 
+0000ef9fbc8fe0da034ae21aa7d7780112a9b50a18a17fd7b85085c5b37ed896
+Block data: 
+System sent 100 VC to miner1
+Block was generating for 0 seconds
+N was increased to 5
+
+Block:
+Created by: miner8
+miner8 gets 100 VC
+Id: 9
+Timestamp: 1598464225858
+Magic number: 17847
+Hash of the previous block: 
+0000ef9fbc8fe0da034ae21aa7d7780112a9b50a18a17fd7b85085c5b37ed896
+Hash of the block: 
+0000076071e42365fa3de1eede0447b509720258676b272fa5505a5ded2a5d46
+Block data: 
+System sent 100 VC to miner7
+Alice sent 45 VC to miner6
+Nick sent 87 VC to miner1
+Block was generating for 0 seconds
+N stay the same
+
+Block:
+Created by: miner5
+miner5 gets 100 VC
+Id: 10
+Timestamp: 1598464226145
+Magic number: 62727
+Hash of the previous block: 
+0000076071e42365fa3de1eede0447b509720258676b272fa5505a5ded2a5d46
+Hash of the block: 
+0000059bdc27ffb6dcdc3d8722059dde6ac5348ea96edeb084da6cb9e3c9eef4
+Block data: 
+System sent 100 VC to miner8
+Bob sent 55 VC to miner6
+Block was generating for 0 seconds
+N was decreased to 4
+
+Block:
+Created by: miner5
+miner5 gets 100 VC
+Id: 11
+Timestamp: 1598464226774
+Magic number: 2488
+Hash of the previous block: 
+0000059bdc27ffb6dcdc3d8722059dde6ac5348ea96edeb084da6cb9e3c9eef4
+Hash of the block: 
+000071f9d80e95a9cbffd4efcd80d49d606fefe13771cbe7feda8d0cf5f6672a
+Block data: 
+Alice sent 87 VC to miner8
+System sent 100 VC to miner5
+Nick sent 95 VC to miner3
+Block was generating for 0 seconds
+N was increased to 5
+
+Block:
+Created by: miner3
+miner3 gets 100 VC
+Id: 12
+Timestamp: 1598464226850
+Magic number: 121420
+Hash of the previous block: 
+000071f9d80e95a9cbffd4efcd80d49d606fefe13771cbe7feda8d0cf5f6672a
+Hash of the block: 
+0000002d3c47b9536db27966305ee48225ba1998adfd0a38a3718af53b308c0e
+Block data: 
+System sent 100 VC to miner5
+Bob sent 26 VC to Alice
+Block was generating for 1 seconds
+N was decreased to 4
+
+Block:
+Created by: miner8
+miner8 gets 100 VC
+Id: 13
+Timestamp: 1598464227931
+Magic number: 2398
+Hash of the previous block: 
+0000002d3c47b9536db27966305ee48225ba1998adfd0a38a3718af53b308c0e
+Hash of the block: 
+00008a96065bbe99b668373df16dfa891dee2253b6b4c26313521cd315995840
+Block data: 
+Bob sent 3 VC to System
+Nick sent 21 VC to miner7
+System sent 100 VC to miner3
+Block was generating for 0 seconds
+N was increased to 5
+
+Block:
+Created by: miner2
+miner2 gets 100 VC
+Id: 14
+Timestamp: 1598464227945
+Magic number: 169053
+Hash of the previous block: 
+00008a96065bbe99b668373df16dfa891dee2253b6b4c26313521cd315995840
+Hash of the block: 
+00000e1f2503e744a0a3d4f8ece4bad393a0b7fa393ffdd99d468fd557266fd2
+Block data: 
+System sent 100 VC to miner8
+Alice sent 65 VC to miner4
+Block was generating for 1 seconds
+N was decreased to 4
+
+Block:
+Created by: miner4
+miner4 gets 100 VC
+Id: 15
+Timestamp: 1598464229480
+Magic number: 5103
+Hash of the previous block: 
+00000e1f2503e744a0a3d4f8ece4bad393a0b7fa393ffdd99d468fd557266fd2
+Hash of the block: 
+00003f627a94c5e21b048a98d863c4ec7240cfecfa1530563df134cd280511f4
+Block data: 
+Nick sent 71 VC to miner5
+Alice sent 11 VC to miner7
+Bob sent 94 VC to Alice
+System sent 100 VC to miner2
+Block was generating for 0 seconds
+N was increased to 5
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
